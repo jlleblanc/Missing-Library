@@ -11,7 +11,7 @@
 	<version>1.0</version>
 	<description>Tools you need to scratch the itches you have</description>
 
-	<files folder="libraries">
+	<files>
 		<folder>smart</folder>
 	</files>
 </extension>
